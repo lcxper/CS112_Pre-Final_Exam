@@ -24,7 +24,7 @@ def main():
           "number' ")
     print("[2] If number [end] is less than number [start]. The program will prompt a message 'Enter a number "
           "greater than number [start]'")
-    print("[3] If the user enter the number “0”, the program will terminate. ")
+    print("[3] If the user enter the number '0', the program will terminate. ")
     print("\nEnter a number [start]: -1 ")
     print("Enter a non-negative number:")
 
